@@ -1,0 +1,11 @@
+{
+  "name": "clawkie",
+  "version": "1.0.0",
+  "description": "克讲机 Clawkie: a desktop walkie-talkie beside Claude Code. Cheap-model side chat with only the last few lines of context, memos, and an image-generation bench (Codex); answers can be handed back to the main conversation. 用便宜的模型回答（只带对话最后几句）、把答案交回对话、生图台工具、告诉桌宠你在哪个对话。",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Miaomiao",
+    "url": "https://github.com/Miaomiaomeowmeow"
+  },
+  "license": "CC-BY-NC-SA-4.0"
+}

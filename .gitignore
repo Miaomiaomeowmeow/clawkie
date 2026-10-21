@@ -1,0 +1,4 @@
+CLAUDE.md
+.sync/
+__pycache__/
+*.tmp
